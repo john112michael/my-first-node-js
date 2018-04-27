@@ -6,6 +6,3 @@ for (let i = 1; i <= number; i++){
 }
 
 console.log(sum);
-
-// git remote add origin git@github.com:songdavidzhiyu/my-first-node-js.git
-// git push -u origin master
